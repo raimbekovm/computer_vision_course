@@ -136,6 +136,13 @@ See `samples/` directory for example inputs and predictions.
 
 This project is for educational and portfolio purposes.
 
+## Contact
+
+**Murat Raimbekov**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murat-raimbekov)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raimbekovm)
+
 ## Acknowledgments
 
 - Dataset from Clean Code Cup 2022 - Problem A
