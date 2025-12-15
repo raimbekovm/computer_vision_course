@@ -21,18 +21,34 @@ This repository contains practical implementations and projects completed during
 
 ---
 
+## Seminars
+
+Practical notebooks from course seminars:
+
+- **Seminar 1**: Introduction to Computer Vision and PyTorch basics
+- **Seminar 2 Part 1**: Gradient descent and optimization
+- **Seminar 2 Part 2**: Wine classification with neural networks
+- **Seminar 3**: Advanced classification techniques
+
 ## Repository Structure
 
 ```
 computer_vision_course/
 ├── README.md                        # This file
-├── 01_insulator_segmentation/       # Insulator segmentation project
+├── requirements.txt                 # Common dependencies
+│
+├── Seminar_1.ipynb                  # Seminar notebooks
+├── Seminar_2_part1.ipynb
+├── Seminar_2_part2.ipynb
+├── Seminar_3.ipynb
+│
+├── 01_insulator_segmentation/       # Project 1: Insulator segmentation
 │   ├── insulator_segmentation.ipynb
 │   ├── requirements.txt
 │   ├── README.md
 │   └── samples/
-├── 02_[next_project]/               # Next project
-└── ...
+│
+└── 02_[next_project]/               # Next project
 ```
 
 ## Technologies Used
