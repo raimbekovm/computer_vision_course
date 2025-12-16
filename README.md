@@ -21,6 +21,14 @@ This repository contains practical implementations and projects completed during
 
 ---
 
+## Homework Assignments
+
+Course homework assignments implementing various computer vision techniques:
+
+- **Homework 5.1**: Neural network fundamentals
+- **Homework 5.2**: Dense and convolutional neural networks
+- **Homework 5.3**: AlexNet implementation and activation map visualization
+
 ## Seminars
 
 Practical notebooks from course seminars:
@@ -36,6 +44,10 @@ Practical notebooks from course seminars:
 computer_vision_course/
 ├── README.md                        # This file
 ├── requirements.txt                 # Common dependencies
+│
+├── Homework_5_1.ipynb               # Homework assignments
+├── Homework_5_2.ipynb
+├── Homework_5_3.ipynb
 │
 ├── Seminar_1.ipynb                  # Seminar notebooks
 ├── Seminar_2_part1.ipynb
